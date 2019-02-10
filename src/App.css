@@ -7,6 +7,18 @@
   height: 40vmin;
 }
 
+input, select {
+  width: 350px;
+  height: 20px;
+  border: 1px solid #000000;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+table td {
+  border: 1px solid #61dafb;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
